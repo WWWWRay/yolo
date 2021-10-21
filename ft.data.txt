@@ -1,0 +1,4 @@
+classes=1
+train=./dataft/trainft.txt
+valid=./dataft/valft.txt
+names=./dataft/ft.names.txt
